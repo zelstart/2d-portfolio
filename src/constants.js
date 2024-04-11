@@ -2,7 +2,7 @@ export const scaleFactor = 3;
 
 export const dialogueData = {
     pc: `Hello world! This is where I spend most of my day - whether it's coding, gaming, or watching twitch streamers!`,
-    tv: `I spend a lot of time watching YouTube videos here!`,
+    tv: `I like to watch YouTube here!`,
     cert: `I got this certificate from the University of New Hampshire for completing the Full Stack Web Development Bootcamp!`,
     bed: `This is my bed. I'm surprised there isn't a cat on it!`,
     resume: `Here's a <a href="https://zelstart.netlify.app/resume" target="_blank">link</a> to my resume. Feel free to check it out!`,
