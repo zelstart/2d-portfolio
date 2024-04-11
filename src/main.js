@@ -82,7 +82,7 @@ k.scene("main", async () => {
     }
 
     k.onUpdate(() => {
-        k.camPos(player.pos.x, player.pos.y + 100);
+        k.camPos(player.pos.x, player.pos.y);
     })
 
     // set camera scale
